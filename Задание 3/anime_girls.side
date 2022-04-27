@@ -72,8 +72,8 @@
     }, {
       "id": "2a166501-5939-442e-a2ec-c24e0beb5b35",
       "comment": "",
-      "command": "verifyElementNotPresent",
-      "target": "btn",
+      "command": "verifyElementPresent",
+      "target": "css=.card-body >.btn",
       "targets": [],
       "value": ""
     }, {
